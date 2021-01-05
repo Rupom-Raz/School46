@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">School Management App</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="upload_notice">Upload Notice</string>
+    <string name="notice_title">Notice title</string>
+    <string name="todo">TODO</string>
+</resources>
